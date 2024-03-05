@@ -1,0 +1,9 @@
+.maindiv1{
+    border: 2px solid black;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.firstDiv{
+    border: 2px solid black;
+}
+
